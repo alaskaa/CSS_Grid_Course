@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/bille/.cache/gnome-builder/install/20---CSS-Grid-Image-Gallery/host
+app-id=
+postbuild=
+prebuild=
+default=true
